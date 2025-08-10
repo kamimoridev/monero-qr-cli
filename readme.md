@@ -84,5 +84,7 @@ MIT
 
 ## Donate if you want (yes, its the same address)
 86UKFtJivEiPshGkbReMLraabZD8DtV5Z8mR5V9VopRLfmmZy3ACG73ZMwcY5QNKFPiJgj53KK8fs6KHfnML271MHUd8v3D
+
 monero:86UKFtJivEiPshGkbReMLraabZD8DtV5Z8mR5V9VopRLfmmZy3ACG73ZMwcY5QNKFPiJgj53KK8fs6KHfnML271MHUd8v3D
+
 ![donation monero address](screenshots/example.png)
